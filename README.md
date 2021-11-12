@@ -1,18 +1,52 @@
-# greatunihack2021
-Reinforcement Learning. Retro theme.
+# GreatUniHack 2021
+```
+██████╗ ███████╗██╗███╗   ██╗███████╗ ██████╗ ██████╗  ██████╗███████╗███╗   ███╗███████╗███╗   ██╗████████╗
+██╔══██╗██╔════╝██║████╗  ██║██╔════╝██╔═══██╗██╔══██╗██╔════╝██╔════╝████╗ ████║██╔════╝████╗  ██║╚══██╔══╝
+██████╔╝█████╗  ██║██╔██╗ ██║█████╗  ██║   ██║██████╔╝██║     █████╗  ██╔████╔██║█████╗  ██╔██╗ ██║   ██║   
+██╔══██╗██╔══╝  ██║██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██║     ██╔══╝  ██║╚██╔╝██║██╔══╝  ██║╚██╗██║   ██║   
+██║  ██║███████╗██║██║ ╚████║██║     ╚██████╔╝██║  ██║╚██████╗███████╗██║ ╚═╝ ██║███████╗██║ ╚████║   ██║   
+╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝   
+                    ██╗     ███████╗ █████╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗                         
+                    ██║     ██╔════╝██╔══██╗██╔══██╗████╗  ██║██║████╗  ██║██╔════╝                         
+                    ██║     █████╗  ███████║██████╔╝██╔██╗ ██║██║██╔██╗ ██║██║  ███╗                        
+                    ██║     ██╔══╝  ██╔══██║██╔══██╗██║╚██╗██║██║██║╚██╗██║██║   ██║                        
+                    ███████╗███████╗██║  ██║██║  ██║██║ ╚████║██║██║ ╚████║╚██████╔╝                        
+                    ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝                         
 
-- Overview, set the theme, and intro links
 
-We suggest suggest retro theme, but two things:
-* Retro doesn't just mean retro video games. 
-* Even more, we are looking for inovative RL applications. If your idea isn't retro, you can still impress us!
+
+
+
+
+        ██████╗ ███████╗████████╗██████╗  ██████╗     ████████╗██╗  ██╗███████╗███╗   ███╗███████╗          
+        ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗    ╚══██╔══╝██║  ██║██╔════╝████╗ ████║██╔════╝          
+        ██████╔╝█████╗     ██║   ██████╔╝██║   ██║       ██║   ███████║█████╗  ██╔████╔██║█████╗            
+        ██╔══██╗██╔══╝     ██║   ██╔══██╗██║   ██║       ██║   ██╔══██║██╔══╝  ██║╚██╔╝██║██╔══╝            
+        ██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝       ██║   ██║  ██║███████╗██║ ╚═╝ ██║███████╗          
+        ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝          
+                                                                                                            
+```
+We want you to make something cool with reinforcement learning in a retro style!
+
+## Judging criteria
+### Task creativity
+
+Your project will be assessed based on the creativity of the solution / task that the model(s) performs, not the complexity of the model(s) behind it. If you need to (or want to!) use something complex like state-of-the-art Deep RL neural nets, go for it. However, simple AI solutions can solve facinating problems just as well!
+
+### Retro theme
+We suggest the idea of a retro theme, but two things:
+1. Retro doesn't just mean retro video games. Retro could mean overly complex last-centuary mechanical interfaces, old game consoles or historical sports (We're a big fan of [Tudor Football](https://primaryfacts.com/680/tudor-football-facts-and-information/))
+
+2. Even more, we are looking for inovative reinforcement learning applications. If your idea isn't retro, you can still impress us!
 
 ## Places to start
 
-What is Reinforcement Learning ([link1](https://www.geeksforgeeks.org/what-is-reinforcement-learning/), [link2](https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292))?
+Try these for an introduction to RL: ([GeeksforGeeks](https://www.geeksforgeeks.org/what-is-reinforcement-learning/), [towards data science](https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292))
 
-OpenAI gym provides a bunch of [test environments](https://gym.openai.com/envs/#classic_control) for playing around with RL. You can even make your [own environments](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e) using their library!
+OpenAI gym provides a bunch of [test environments](https://gym.openai.com/envs/#classic_control) for playing around with RL.
+[Keras RL examples](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html) may be a good starting point for model training.
 
+You can even make your [own environments](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e) using the OpenAI library! Here's an interesting snippet from the article:
 ```python
 import gym
 from gym import spaces
@@ -41,32 +75,11 @@ class CustomEnv(gym.Env):
     # Render the environment to the screen
     ...
 ```
-[Keras RL examples](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html) may be a good starting point for training the models 
 
 Feel free to a look at other Reinforcement Learning libraries (it doesn't have to be Python), there are plenty out there.   
 
-
-
-## Judging criteria:
-* Creativity of task
-
-Creativity of a solution or a task that a model will perform. If you need to (or want to!) use something complex like state-of-the-art Deep RL neural nets, go for it. However, simple AI solutions can solve facinating problems just as well.
-
-* Theme
-
-We suggest retro theme, but two things. But 
-
-
-
-https://gym.openai.com/ -- provides plenty of environments for RL. Including some games like Pinball -- https://gym.openai.com/envs/VideoPinball-ram-v0/
-A nice intro to Deep RL with pytorch (uses OpenAI Gym) -- https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
-These are the, pretty much, standard starting points for Deep RL. (edite
-
-
-Also, as we are talking about retro-game-ish theme, maybe we can give some assets that we like, as an inspiration source? For example, I scrolled itch.io and liked this free pack https://v3x3d.itch.io/retro-lines
-
-Further inspiration for RL, beyond the getting started:
-Want to build a multiplayer game with RL?: https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717
-Want to use real hardware agents?: https://hackaday.com/2019/05/25/little-lamp-to-learn-longer-leaps/
-Want to apply RL to 'retro' technologies (I know sailing is not quite retro, but I couldn't come up with a better example)?: https://github.com/PPierzc/ai-learns-to-sail
-Want to nudge how an agent learns yourself (i.e. learning from human preference)? https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/ [this one might be too ambitious for a hackathon though, but maybe the idea itself is inspirational enough?]
+# More Inspiration
+* Want to pit your bot against itself or play against your bot? Try [Simple](https://github.com/davidADSP/SIMPLE). The creator has written a great [article](https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717) about it!
+* Want to use real hardware agents? Check out [this hack](https://hackaday.com/2019/05/25/little-lamp-to-learn-longer-leaps/) by Roger Cheng.
+* Want to be REALLY ambitious try using human preference to evaluate your AI like [this](https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/). (P.S: This would be really hard)
+* Check out [itch.io](https://itch.io/game-assets/free/tag-retro) for some nice retro assets.
