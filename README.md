@@ -41,10 +41,10 @@ We suggest the idea of a retro theme, but two things:
 
 ## Places to start
 
-Try these for an introduction to RL: ([GeeksforGeeks](https://www.geeksforgeeks.org/what-is-reinforcement-learning/), [towards data science](https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292))
+Try these for an introduction to RL: [GeeksforGeeks](https://www.geeksforgeeks.org/what-is-reinforcement-learning/), [towards data science](https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292)
 
 OpenAI gym provides a bunch of [test environments](https://gym.openai.com/envs/#classic_control) for playing around with RL.
-[Keras RL examples](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html) may be a good starting point for model training.
+This [PyTorch Deep Q Learning tutorial](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html) may be a good starting point for model training.
 
 You can even make your [own environments](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e) using the OpenAI library! Here's an interesting snippet from the article:
 ```python
