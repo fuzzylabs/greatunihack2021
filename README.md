@@ -12,7 +12,7 @@ Your project will be assessed based on the creativity of the solution / task tha
 We suggest the idea of a retro theme, but two things:
 1. Retro doesn't just mean retro video games. Retro could mean overly complex last-centuary mechanical interfaces, old game consoles or historical sports (We're a big fan of [Tudor Football](https://primaryfacts.com/680/tudor-football-facts-and-information/))
 
-2. Even more, we are looking for inovative reinforcement learning applications. If your idea isn't retro, you can still impress us!
+2. Even more, we are looking for innovative reinforcement learning applications. If your idea isn't retro, you can still impress us!
 
 ## Places to start
 
