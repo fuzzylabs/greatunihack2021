@@ -1,18 +1,9 @@
 # GreatUniHack 2021
 ![Challenge banner: Reinforcement learning retro theme](challengebanner.png)
 
-We want you to make something cool with reinforcement learning in a retro style!
+We want you to make something cool with reinforcement learning!
 
-## Judging criteria
-### Task creativity
-
-Your project will be assessed based on the creativity of the solution / task that the model(s) performs, not the complexity of the model(s) behind it. If you need to (or want to!) use something complex like state-of-the-art Deep RL neural nets, go for it. However, simple AI solutions can solve facinating problems just as well!
-
-### Retro theme
-We suggest the idea of a retro theme, but two things:
-1. Retro doesn't just mean retro video games. Retro could mean overly complex last-centuary mechanical interfaces, old game consoles or historical sports (We're a big fan of [Tudor Football](https://primaryfacts.com/680/tudor-football-facts-and-information/))
-
-2. Even more, we are looking for innovative reinforcement learning applications. If your idea isn't retro, you can still impress us!
+Your project will be assessed based on the creativity of the solution / task that the model(s) performs. If you need to (or want to!) use something complex like state-of-the-art Deep RL neural nets, go for it! But we know simple AI solutions can solve facinating problems just as well!
 
 ## Places to start
 
